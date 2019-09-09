@@ -1,0 +1,9 @@
+{
+  "extends": "tslint-config-airbnb-base",
+  "rules": {
+    "no-require-imports": false,
+    "no-magic-numbers": false,
+    "variable-name": false,
+    "forin": false
+  }
+}
